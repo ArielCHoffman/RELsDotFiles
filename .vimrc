@@ -33,7 +33,6 @@ nmap <leader>1 :set lines=40 columns=85<CR><C-w>o
 nmap <leader>2 :set lines=50 columns=171<CR><C-w>v
 
 autocmd VimLeave * NERDTreeClose
-autocmd VimLeave * mksession! LastSess.vim
 
 autocmd VimEnter * NERDTree
 autocmd VimEnter * wincmd p
