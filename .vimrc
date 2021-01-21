@@ -14,7 +14,7 @@ set mouse=a
 set ic
 highlight Comment ctermfg=119
 set term=builtin_ansi
-colorscheme evening 
+colorscheme delek
 let g:miniBufExplMapWindowNavVim=1
 let g:miniBufExplMapWindowNavArrows=1
 let g:miniBufExplMapCTabSwitchBufs=1
